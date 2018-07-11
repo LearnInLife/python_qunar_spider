@@ -1,4 +1,4 @@
-# python_qunar_spider
+# 旅游信息爬取
 
 ## 爬取去哪网全国旅游信息
 通过分析去哪网发现，页面显示是通过ajax请求api返回json数据，所以不用通过去解析html页面，直接获取到json数据，
