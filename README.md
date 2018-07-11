@@ -12,9 +12,12 @@
 然后通过pyecharts模块，生成图表
 pyecharts参考中文文档地址http://pyecharts.org/#/zh-cn/prepare
 
-排名前20景点
+###排名前20景点
+
 ![](image/top20.png)
 
 
-城市景点数
+
+###城市景点数
+
 ![](image/count.png)
